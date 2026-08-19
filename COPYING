@@ -1,0 +1,35 @@
+# Copyright Notice
+
+Copyright © 2026 Shiromitsu
+
+Unless otherwise stated, all code snippets in this repository are
+licensed under the MIT-0 License.
+
+The following works are excluded from the above license and remain
+All Rights Reserved:
+
+* Post bodies and other original written content
+* Personal photographs and illustrations
+* Logos, icons, and other branding materials
+* Other works explicitly marked as "All Rights Reserved"
+
+The works listed above may not be reproduced, modified, distributed,
+or otherwise used without permission from the respective copyright
+holder, except as permitted by applicable law.
+
+This includes, but is not limited to, use for training, fine-tuning,
+or otherwise developing generative AI or machine learning models,
+including base models and additional training methods such as LoRA,
+or for providing such works as input to or referencing such works from
+generative AI systems, without permission from the respective
+copyright holder.
+
+Nothing in this notice is intended to restrict uses that are permitted
+by applicable law, including statutory exceptions and limitations such
+as quotation.
+
+Third-party components and assets are not covered by the above terms
+and remain subject to their respective licenses and applicable terms.
+
+Where a file or work is explicitly accompanied by a different license
+or usage notice, that license or notice takes precedence for that work.
